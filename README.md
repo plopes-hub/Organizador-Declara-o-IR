@@ -19,5 +19,5 @@ Esse aplicaivo ajuda a organizar todos os dados para declaracao de IR, além de 
 ## 🚀 Resultados
 O aplicativo organiza os dados e documentos tudo em uma só lugar, facilitando o contribuinte na hora de declarar seu Imposto de Renda.
 
-## 💭 Reflexão (Opcional)
+## 💭 Reflexão
 Esse aplicativo pode ser usado tanto para quem vai declarar seu imposto de renda ou mesmo se vai encaminhar para um contador.
