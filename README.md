@@ -1,4 +1,4 @@
-# Organizador-Declara-o-IR
+# Organizador-Declaracao IR
 Aplicativo para organizar os dados e documentos IR
 
 ## 📒 Descrição
