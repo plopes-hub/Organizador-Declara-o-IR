@@ -21,3 +21,6 @@ O aplicativo organiza os dados e documentos tudo em uma só lugar, facilitando o
 
 ## 💭 Reflexão
 Esse aplicativo pode ser usado tanto para quem vai declarar seu imposto de renda ou mesmo se vai encaminhar para um contador.
+
+## Imagens
+
